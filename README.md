@@ -1,11 +1,20 @@
 # Axel (AxxAL)
-## Website(s)
-[School](https://19axer.ssis.nu "My School's domain.")\
-[Personal](https://axxal.rocks "My own domain.")
+
+I am an aspiring student who wishes to get into the tech business
+
+## Webpages
+
+These are not inteded to look or behave well
+
+[School Domain](https://19axer.ssis.nu "My School's domain.")\
+[Personal Domain](https://axxal.rocks "My own domain.")
+
 
 ## Contact
-Discord: AxxAL#3801\
+```bash
+Discord: AxxAL#3801
 Email: axxal@protonmail.ch
+```
 
 <!--
 **AxxAL/AxxAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
