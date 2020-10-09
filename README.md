@@ -7,8 +7,6 @@ I am an aspiring student who wishes to get into the tech business
 These are not inteded to look or behave well
 
 [School Domain](https://19axer.ssis.nu "My School's domain.")\
-[Personal Domain](https://axxal.rocks "My own domain.")
-
 
 ## Contact
 ```bash
