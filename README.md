@@ -3,7 +3,7 @@
 I am an aspiring student who wishes to get into the tech business.
 
 ## Webpages
-[School Domain](https://19axer.ssis.nu "My School's domain.")
+[School Domain](https://19axer.ssis.nu "My School's domain.")\
 [Personal Domain](https://axxal.net "My Personal Domain")
 
 ## Contact
