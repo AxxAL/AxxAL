@@ -2,11 +2,11 @@
 
 I am an aspiring student who wishes to get into the tech business.
 
-## Webpages
+## Webpages 🖥
 [School Domain](https://19axer.ssis.nu "My School's domain.")\
 [Personal Domain](https://www.axxal.net "My Personal Domain")
 
-## Contact
+## Contact ✉
 ```bash
 Discord: AxxAL#3801
 Email: axel@axxal.net
