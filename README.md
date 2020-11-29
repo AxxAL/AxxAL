@@ -1,6 +1,6 @@
 # Axel (AxxAL)
 
-I am an aspiring student who wishes to get into the tech business.
+I am a student.
 
 ## Webpages 🖥
 [School Domain](https://19axer.ssis.nu "My School's domain.")\
@@ -9,7 +9,7 @@ I am an aspiring student who wishes to get into the tech business.
 ## Contact ✉
 ```bash
 Discord: AxxAL#3801
-Email: axel@axxal.net
+Email: me@axxal.net
 ```
 
 <!--
