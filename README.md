@@ -7,10 +7,9 @@ I am a student.
 [Personal Domain](https://www.axxal.net "My Personal Domain")
 
 ## Contact ✉
-```bash
-Discord: AxxAL#3801
-Email: me@axxal.net
-```
+[Discord](https://discordapp.com/users/227060534887972864 "My Discord profile.")\
+[E-Mail](mailto:me@axxal.net "E-Mail me :D")
+
 
 <!--
 **AxxAL/AxxAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
