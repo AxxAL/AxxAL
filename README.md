@@ -10,7 +10,7 @@ I am a student.
 [Discord](https://discordapp.com/users/227060534887972864 "My Discord profile.")\
 [E-Mail](mailto:me@axxal.net "E-Mail me :D")
 
-## Currently working on 💻
+## Currently working on ⚡
 [Samuro-RE](https://github.com/AxxAL/Samuro-RE)
 
 <!--
