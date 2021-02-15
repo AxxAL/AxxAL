@@ -2,16 +2,7 @@
 
 I am a student.
 
-## Webpages 🖥
-[School Domain](https://19axer.ssis.nu "My School's domain.")\
-[Personal Domain](https://www.axxal.net "My Personal Domain")
-
-## Contact ✉
-[Discord](https://discordapp.com/users/227060534887972864 "My Discord profile.")\
-[E-Mail](mailto:me@axxal.net "E-Mail me :D")
-
-## Currently working on ⚡
-[Samuro-RE](https://github.com/AxxAL/Samuro-RE)
+![Alt Text](https://dl.axxal.net/dl/1916-gondola.gif)
 
 <!--
 **AxxAL/AxxAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
