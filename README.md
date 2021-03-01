@@ -2,8 +2,6 @@
 
 I am a student.
 
-![](https://dl.axxal.net/dl/1587587859281.png)
-
 <!--
 **AxxAL/AxxAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
