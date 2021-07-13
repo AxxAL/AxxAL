@@ -1,6 +1,6 @@
 # Axel (AxxAL)
 
-I am a student. C#, Java & Javascript.
+I am a student.
 
 <!--
 **AxxAL/AxxAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
