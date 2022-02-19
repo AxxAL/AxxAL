@@ -1,5 +1,3 @@
-# Axel (AxxAL)
-
 I am a student.
 
 <!--
