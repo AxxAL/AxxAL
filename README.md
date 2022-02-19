@@ -1,4 +1,4 @@
-![](https://files.catbox.moe/bozeyi.png)
+# Doin' you're mom.
 
 <!--
 **AxxAL/AxxAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
