@@ -1,4 +1,5 @@
 # Doin' you're mom.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axxal&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **AxxAL/AxxAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
